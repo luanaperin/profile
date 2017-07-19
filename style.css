@@ -40,7 +40,7 @@ a {
 .card-white {
   background-color: white;
   width: 722px;
-  padding: 22px;
+  padding: 11px;
   margin: 19px auto;
   border-radius: 69px;
   box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.1);
@@ -51,17 +51,17 @@ a {
 
 h1 {
   color: #CC085E;
-  font-size: 36px;
+  font-size: 19px;
 }
 
 h2 {
   color: #6C5B7B;
-  font-size: 23px;
+  font-size: 14px;
 }
 
 h3 {
   color: #CC085E;
-  font-size: 19px;
+  font-size: 14px;
 }
 
 tr {
@@ -72,8 +72,12 @@ td {
   padding: 20px 20px;
 }
 
+#pp {
+  text-indent: 102px;
+}
+
 #img-eu {
-  width: 200px;
+  width: 145px;
   height: auto;
   border-radius: 27%;
   text-align: start;
@@ -100,11 +104,11 @@ td {
 }
 
 #filmes {
-  font-size: 28px;
+  font-size: 17px;
 }
 
 #botao {
-  font-size: 20px;
+  font-size: 15px;
 }
 
 li {
@@ -115,7 +119,7 @@ li {
 p {
   text-align: justify;
   text-indent: 50px;
-  font-size: 18px;
+  font-size: 13px;
 }
 
 a:hover {
@@ -124,9 +128,9 @@ a:hover {
 
 
 .botao {
-  padding: 8px 11px;
+  padding: 1px 11px;
 
-border: 1px solid #a61052;
+border: 2px solid #a61052;
 -moz-border-radius: 8px;
 -webkit-border-radius: 8px;
 border-radius: 8px;
